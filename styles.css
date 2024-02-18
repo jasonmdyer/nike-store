@@ -44,8 +44,7 @@
     justify-content: center;
     align-items: center;
     padding-top: 60px;
-    background-color: #F6F6F6;
-    }
+}
 
 .card {
     width: 24rem;
@@ -55,6 +54,8 @@
     position: relative;
     color: black;
     box-shadow: 0 1px 5px 1px rgba(151, 151, 151, 0.2);
+    background-color: #F6F6F6;
+
  
   img {
     position: absolute;
